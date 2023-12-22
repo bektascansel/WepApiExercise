@@ -1,0 +1,6 @@
+@NETCORE_7_WepApiProject_HostAddress = http://localhost:5123
+
+GET {{NETCORE_7_WepApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
